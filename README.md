@@ -21,3 +21,4 @@ To Run The project:
     $ npm run serve
 
     ```
+Hosted Site: https://dazzling-boyd-42aadc.netlify.app/
