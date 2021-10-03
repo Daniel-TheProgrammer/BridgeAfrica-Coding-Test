@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "test"
+    },
+    {
+      "username": "admin2",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "username": "admin3",
+      "password": "test3",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Test 2",
+      "description": "test 2 ",
+      "image": "https://picsum.photos/200/300",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "name": "Testing",
+      "description": "test 2 ",
+      "image": "https://picsum.photos/200/300",
+      "price": "100",
+      "discount": false,
+      "id": 2
+    }
+  ]
+}
